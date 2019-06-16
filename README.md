@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```
-@copyright = DevcampViewTool::Renderer.copyright 'Lucas Hauptmann Pereira', 'All rights reserverd
+@copyright = DevcampViewTool::Renderer.copyright 'Lucas Hauptmann Pereira', 'All rights reserverd`
 ```
 
 ## Development
